@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hello! I'm Shreya Kumari
+💡 Passionate about: Technology, web development, and artificial intelligence
+🌱 Currently learning: Advanced web development techniques and modern tech tools
+🤝 Open to: Collaborating on innovative projects that challenge my technical and problem-solving skills
 
-<!--
-**Shreya-Kumari003/Shreya-Kumari003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Skills
+  Technical: React, Tailwind, Python, OOPS
+  Soft Skills: Teamwork, Communication, Problem-solving
 
-Here are some ideas to get you started:
+🏆 Achievements
+Smart India Hackathon 2023
+  Addressed mental health support needs for youth and frontline workers by proposing a comprehensive solution.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Languages
+  English: Full Professional Proficiency
+  Hindi: Native or Bilingual Proficiency
+
+📫 Contact Information
+  📧 Email: shreyarajput600@gmail.com
+  📱 Phone: +91 9508 040117
+  🔗 LinkedIn: Shreya Kumari
