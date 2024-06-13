@@ -18,4 +18,4 @@ Smart India Hackathon 2023
 📫 Contact Information
   📧 Email: shreyarajput600@gmail.com
   📱 Phone: +91 9508 040117
-  🔗 LinkedIn: Shreya Kumari
+  🔗 LinkedIn: https://www.linkedin.com/in/shreya-kumari-b650b921a/
