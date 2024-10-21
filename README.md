@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **My portfolio website 😁**
 
-- 🌱 I’m currently learning **Angular and framer motion**
+- 🌱 And also learning **Angular and framer motion**
 
 - ⚡ Know what I'm also good at? [Publishing research papers](https://ieeexplore.ieee.org/abstract/document/10668899)
 
