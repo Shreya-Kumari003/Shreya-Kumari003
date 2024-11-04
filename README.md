@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **shreyarajput600@gmail.com**
 
-- 📄 Know about my experiences [https://www.my_resume_link.com](https://www.my_resume_link.com)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Zj53EiWZffCDEh5BxXShb8EDEkX36q_S/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
