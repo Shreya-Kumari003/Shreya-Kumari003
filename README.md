@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Shreya-Kumari003/Shreya-Kumari003/blob/main/banner.png)](https://github.com/Raj-Sinha1)
+[![MasterHead](https://github.com/Shreya-Kumari003/Shreya-Kumari003/blob/main/banner.png)](https://github.com/Shreya-Kumari003)
 
 <h1 align="center">Hello! I'm Shreya Kumari</h1>
 <h3 align="center">A dedicated and creative fullstack developer from India</h3>
