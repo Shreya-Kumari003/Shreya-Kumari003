@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya-kumari003&label=Profile%20views&color=0e75b6&style=flat" alt="shreya-kumari003" /> </p>
 
-<img align="right" alt="Coding" width="400" height="500" src="https://github.com/Shreya-Kumari003/Shreya-Kumari003/blob/main/banner.gif">
+<img align="right" alt="Coding" width="300" height="400" src="https://github.com/Shreya-Kumari003/Shreya-Kumari003/blob/main/banner.gif">
 
 - 🔭 I’m currently working on **My portfolio website 😁**
 
