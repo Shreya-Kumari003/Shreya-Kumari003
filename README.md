@@ -13,7 +13,7 @@
 
 - ⚡ Know what I'm also good at? [Publishing research papers](https://ieeexplore.ieee.org/abstract/document/10668899)
 
-- 👨‍💻 All of my projects are available at [https://www.my_portfolio_demo.com](https://www.my_portfolio_demo.com)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://my-portfolio-pi-six-64.vercel.app/)
 
 - 💬 Ask me about **react, node, veu, bootstrap and more!**
 
